@@ -1,9 +1,10 @@
 ﻿string[] sanat = new string[3];
 
+string sana;
 for (int i = 0; i < 3; i++)
 {
     Console.Write("kirjoita sana: ");
-    string sana = Console.ReadLine();
+    sana = Console.ReadLine();
     sanat[i] = sana;
 }
 
