@@ -1,6 +1,6 @@
 ﻿void TulostaSana(string nimi)
 {
-    Console.WriteLine("Hi, " + nimi + "!");
+    Console.WriteLine("Moi, " + nimi + "!");
 }
 
 TulostaSana("Juho");
